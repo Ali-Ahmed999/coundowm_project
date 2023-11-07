@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6",
+    "@types/node": "^20.8.10"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "inquirer": "^9.2.11"
+  },
+  "name": "coundowm_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
